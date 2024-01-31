@@ -1,0 +1,11 @@
+maanantai ohpe: Java on ohjelmointikieli
+maanantai unicafe: Kalakeittoa
+tiistai ohpe: Luokka voi toteuttaa rajapinnan
+tiistai jtkt: Turingin testi on vaikea läpäistä
+tiistai unicafe: Kanawokkia
+keskiviikko ohpe: Java-ohjelmalla on oltava main-metodi
+keskiviikko jtkt: Internet on iso paikka
+keskiviikko unicafe: Papupataa
+torstai unicafe: Hernekeittoa ja pannukakkua
+torstai lapio: Komentorivi on musta laatikko
+perjantai unicafe: Pitsaa

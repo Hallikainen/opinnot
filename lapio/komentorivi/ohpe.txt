@@ -1,0 +1,3 @@
+maanantai ohpe: Java on ohjelmointikieli
+tiistai ohpe: Luokka voi toteuttaa rajapinnan
+keskiviikko ohpe: Java-ohjelmalla on oltava main-metodi

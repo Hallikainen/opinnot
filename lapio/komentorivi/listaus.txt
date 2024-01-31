@@ -1,0 +1,6 @@
+esimerkki.txt
+esimerkki1.txt
+esimerkki2.txt
+listaus.txt
+muistio1.txt
+muistio2.txt

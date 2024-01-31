@@ -1,0 +1,8 @@
+uusi rivi tekstiä
+tästä vielä vähän
+jos vielä vähän
+<<<<<<< HEAD
+terveisiä koneelta!
+=======
+terveisiä githubista! 
+>>>>>>> a192172945519dfb647b36cbddf4c565fa16b34d
